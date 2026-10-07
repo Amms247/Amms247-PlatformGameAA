@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Intro Blockout.unity
+    path: Assets/Scenes/Level 2 Blockout.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Intro Blockout.unity
+    guid: e1e44ef0c618f6d4db5c2862f4b3c83d
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Blockout.unity
+    guid: f653e31b805b1b74aa2b7114c735c562
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
