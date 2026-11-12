@@ -1,0 +1,1553 @@
+fileFormatVersion: 2
+guid: 560ea250b1359bf429736d80de591797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1529118242269147549
+    second: ginger sprite sheet copy_0
+  - first:
+      213: 534879056635729843
+    second: ginger sprite sheet copy_1
+  - first:
+      213: -8843771554429427524
+    second: ginger sprite sheet copy_2
+  - first:
+      213: -8490583178170777792
+    second: ginger sprite sheet copy_3
+  - first:
+      213: -1960914804517473087
+    second: ginger sprite sheet copy_4
+  - first:
+      213: 5032696672625966750
+    second: ginger sprite sheet copy_5
+  - first:
+      213: 6635720583704039139
+    second: ginger sprite sheet copy_6
+  - first:
+      213: -3885598040397241070
+    second: ginger sprite sheet copy_7
+  - first:
+      213: 5039197468855432554
+    second: ginger sprite sheet copy_8
+  - first:
+      213: 1243868867548649520
+    second: ginger sprite sheet copy_9
+  - first:
+      213: -983472298279570669
+    second: ginger sprite sheet copy_10
+  - first:
+      213: 8398641643873782870
+    second: ginger sprite sheet copy_11
+  - first:
+      213: 1389959290801824843
+    second: ginger sprite sheet copy_12
+  - first:
+      213: 3563535956148013394
+    second: ginger sprite sheet copy_13
+  - first:
+      213: -8597549882555796417
+    second: ginger sprite sheet copy_14
+  - first:
+      213: 8089020879104173863
+    second: ginger sprite sheet copy_15
+  - first:
+      213: -71235311608320881
+    second: ginger sprite sheet copy_16
+  - first:
+      213: -5719996537598100814
+    second: ginger sprite sheet copy_17
+  - first:
+      213: -8243743030312996270
+    second: ginger sprite sheet copy_18
+  - first:
+      213: -1654268187459974581
+    second: ginger sprite sheet copy_19
+  - first:
+      213: -2041425458593194362
+    second: ginger sprite sheet copy_20
+  - first:
+      213: -4464562251624442950
+    second: ginger sprite sheet copy_21
+  - first:
+      213: -3754625706611521033
+    second: ginger sprite sheet copy_22
+  - first:
+      213: -990735155418595550
+    second: ginger sprite sheet copy_23
+  - first:
+      213: 4393844623136557087
+    second: ginger sprite sheet copy_24
+  - first:
+      213: 8285919141174630614
+    second: ginger sprite sheet copy_25
+  - first:
+      213: -218468587599357448
+    second: ginger sprite sheet copy_26
+  - first:
+      213: 3159430606690820936
+    second: ginger sprite sheet copy_27
+  - first:
+      213: 7472733636786870065
+    second: ginger sprite sheet copy_28
+  - first:
+      213: -4229353899458326388
+    second: ginger sprite sheet copy_29
+  - first:
+      213: 4255938624738192185
+    second: ginger sprite sheet copy_30
+  - first:
+      213: 4585588439228108996
+    second: ginger sprite sheet copy_31
+  - first:
+      213: -3491196404366993355
+    second: ginger sprite sheet copy_32
+  - first:
+      213: -861408233966510721
+    second: ginger sprite sheet copy_33
+  - first:
+      213: -9153284046188285472
+    second: ginger sprite sheet copy_34
+  - first:
+      213: -5709148567769515484
+    second: ginger sprite sheet copy_35
+  - first:
+      213: 1616147091187406235
+    second: ginger sprite sheet copy_36
+  - first:
+      213: 223744694192638553
+    second: ginger sprite sheet copy_37
+  - first:
+      213: -1188137566505221896
+    second: ginger sprite sheet copy_38
+  - first:
+      213: -5589419425816576296
+    second: ginger sprite sheet copy_39
+  - first:
+      213: 7056634269029105891
+    second: ginger sprite sheet copy_40
+  - first:
+      213: -8846292283292707494
+    second: ginger sprite sheet copy_41
+  - first:
+      213: -6721857841566570262
+    second: ginger sprite sheet copy_42
+  - first:
+      213: 9089561382807323273
+    second: ginger sprite sheet copy_43
+  - first:
+      213: 9145392739152999536
+    second: ginger sprite sheet copy_44
+  - first:
+      213: -5600712124044965530
+    second: ginger sprite sheet copy_45
+  - first:
+      213: -215215475283233444
+    second: ginger sprite sheet copy_46
+  - first:
+      213: 386448258202678954
+    second: ginger sprite sheet copy_47
+  - first:
+      213: 480173059184833392
+    second: ginger sprite sheet copy_48
+  - first:
+      213: -3193814778767968332
+    second: ginger sprite sheet copy_49
+  - first:
+      213: 3187692089133607151
+    second: ginger sprite sheet copy_50
+  - first:
+      213: 5700399738221582458
+    second: ginger sprite sheet copy_51
+  - first:
+      213: -3237289184711570266
+    second: ginger sprite sheet copy_52
+  - first:
+      213: 6929372492156820309
+    second: ginger sprite sheet copy_53
+  - first:
+      213: 4638146233935737659
+    second: ginger sprite sheet copy_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 792
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b50290f4883510800000000000000
+      internalID: 1529118242269147549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 792
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b791980ba54c6700800000000000000
+      internalID: 534879056635729843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 776
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0a787a0ac944580800000000000000
+      internalID: -8843771554429427524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 792
+        width: 216
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3931a5936b2a80800000000000000
+      internalID: -8490583178170777792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 792
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47ee9ef5e69c4e0800000000000000
+      internalID: -1960914804517473087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 792
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e392a95fab7d540800000000000000
+      internalID: 5032696672625966750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 792
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee4d6c96b0d61c50800000000000000
+      internalID: 6635720583704039139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 800
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2152b264b25931ac0800000000000000
+      internalID: -3885598040397241070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_8
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 800
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65fc2c2663dee540800000000000000
+      internalID: 5039197468855432554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_9
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 792
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038976d052c134110800000000000000
+      internalID: 1243868867548649520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 648
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313fb96c7210a52f0800000000000000
+      internalID: -983472298279570669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 648
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c46e2c318fd8470800000000000000
+      internalID: 8398641643873782870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 648
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b442f745c902a4310800000000000000
+      internalID: 1389959290801824843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 648
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c88a5219347130800000000000000
+      internalID: 3563535956148013394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 648
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347f8ffeed5fa880800000000000000
+      internalID: -8597549882555796417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 632
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727e8bfc1a9f14070800000000000000
+      internalID: 8089020879104173863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 648
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2f1c8cdbe20ff0800000000000000
+      internalID: -71235311608320881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 648
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba3004747d7e90b0800000000000000
+      internalID: -5719996537598100814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_18
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 648
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25277922467589d80800000000000000
+      internalID: -8243743030312996270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_19
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 648
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a083329dbda09e0800000000000000
+      internalID: -1654268187459974581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_20
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 648
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e1d118c566ba3e0800000000000000
+      internalID: -2041425458593194362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_21
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 648
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab39e425940ba02c0800000000000000
+      internalID: -4464562251624442950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 504
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9cedc00d3e4ebc0800000000000000
+      internalID: -3754625706611521033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 504
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f78c210a33042f0800000000000000
+      internalID: -990735155418595550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 504
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f188058b7621afc30800000000000000
+      internalID: 4393844623136557087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 504
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8d257ee8f7df270800000000000000
+      internalID: 8285919141174630614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_26
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 504
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f91f812af7d7fcf0800000000000000
+      internalID: -218468587599357448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_27
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 504
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ad4cb56d88db20800000000000000
+      internalID: 3159430606690820936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_28
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 504
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1375bc186ab74b760800000000000000
+      internalID: 7472733636786870065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809f5959015e45c0800000000000000
+      internalID: -4229353899458326388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b626951a1201b30800000000000000
+      internalID: 4255938624738192185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 360
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c05456d36843af30800000000000000
+      internalID: 4585588439228108996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 360
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538959c0e57cc8fc0800000000000000
+      internalID: -3491196404366993355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_33
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 360
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d54df66c9ab04f0800000000000000
+      internalID: -861408233966510721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 360
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e172baf7a009f080800000000000000
+      internalID: -9153284046188285472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_35
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 360
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42afa2040a705c0b0800000000000000
+      internalID: -5709148567769515484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_36
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 360
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95910b7735bd6610800000000000000
+      internalID: 1616147091187406235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a0bb92d96ea1300800000000000000
+      internalID: 223744694192638553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 216
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0c824ad23e28fe0800000000000000
+      internalID: -1188137566505221896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8def88f65a46e62b0800000000000000
+      internalID: -5589419425816576296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 216
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e00453ea733ee160800000000000000
+      internalID: 7056634269029105891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a551f0bb908ab3580800000000000000
+      internalID: -8846292283292707494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 216
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae820c238e927b2a0800000000000000
+      internalID: -6721857841566570262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 216
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c65a4beb942e70800000000000000
+      internalID: 9089561382807323273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_44
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 216
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b6aced36faee70800000000000000
+      internalID: 9145392739152999536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_45
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 216
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669831d3ff54642b0800000000000000
+      internalID: -5600712124044965530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55739d5aa6630df0800000000000000
+      internalID: -215215475283233444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa63d32b4a0fc5500800000000000000
+      internalID: 386448258202678954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 72
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073bc6f6adae9a600800000000000000
+      internalID: 480173059184833392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_49
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b77429516a4da3d0800000000000000
+      internalID: -3193814778767968332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_50
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 72
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8a122e015fc3c20800000000000000
+      internalID: 3187692089133607151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_51
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 72
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a785d622c53eb1f40800000000000000
+      internalID: 5700399738221582458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_52
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 72
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac8d0e63a6d213d0800000000000000
+      internalID: -3237289184711570266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_53
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 72
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bde5771931a2060800000000000000
+      internalID: 6929372492156820309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ginger sprite sheet copy_54
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 72
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333e020d610e5040800000000000000
+      internalID: 4638146233935737659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 647a0360f8a944447a3bab4ec8a1a267
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: True
+    nameFileIdTable:
+      ginger sprite sheet copy_0: 1529118242269147549
+      ginger sprite sheet copy_1: 534879056635729843
+      ginger sprite sheet copy_10: -983472298279570669
+      ginger sprite sheet copy_11: 8398641643873782870
+      ginger sprite sheet copy_12: 1389959290801824843
+      ginger sprite sheet copy_13: 3563535956148013394
+      ginger sprite sheet copy_14: -8597549882555796417
+      ginger sprite sheet copy_15: 8089020879104173863
+      ginger sprite sheet copy_16: -71235311608320881
+      ginger sprite sheet copy_17: -5719996537598100814
+      ginger sprite sheet copy_18: -8243743030312996270
+      ginger sprite sheet copy_19: -1654268187459974581
+      ginger sprite sheet copy_2: -8843771554429427524
+      ginger sprite sheet copy_20: -2041425458593194362
+      ginger sprite sheet copy_21: -4464562251624442950
+      ginger sprite sheet copy_22: -3754625706611521033
+      ginger sprite sheet copy_23: -990735155418595550
+      ginger sprite sheet copy_24: 4393844623136557087
+      ginger sprite sheet copy_25: 8285919141174630614
+      ginger sprite sheet copy_26: -218468587599357448
+      ginger sprite sheet copy_27: 3159430606690820936
+      ginger sprite sheet copy_28: 7472733636786870065
+      ginger sprite sheet copy_29: -4229353899458326388
+      ginger sprite sheet copy_3: -8490583178170777792
+      ginger sprite sheet copy_30: 4255938624738192185
+      ginger sprite sheet copy_31: 4585588439228108996
+      ginger sprite sheet copy_32: -3491196404366993355
+      ginger sprite sheet copy_33: -861408233966510721
+      ginger sprite sheet copy_34: -9153284046188285472
+      ginger sprite sheet copy_35: -5709148567769515484
+      ginger sprite sheet copy_36: 1616147091187406235
+      ginger sprite sheet copy_37: 223744694192638553
+      ginger sprite sheet copy_38: -1188137566505221896
+      ginger sprite sheet copy_39: -5589419425816576296
+      ginger sprite sheet copy_4: -1960914804517473087
+      ginger sprite sheet copy_40: 7056634269029105891
+      ginger sprite sheet copy_41: -8846292283292707494
+      ginger sprite sheet copy_42: -6721857841566570262
+      ginger sprite sheet copy_43: 9089561382807323273
+      ginger sprite sheet copy_44: 9145392739152999536
+      ginger sprite sheet copy_45: -5600712124044965530
+      ginger sprite sheet copy_46: -215215475283233444
+      ginger sprite sheet copy_47: 386448258202678954
+      ginger sprite sheet copy_48: 480173059184833392
+      ginger sprite sheet copy_49: -3193814778767968332
+      ginger sprite sheet copy_5: 5032696672625966750
+      ginger sprite sheet copy_50: 3187692089133607151
+      ginger sprite sheet copy_51: 5700399738221582458
+      ginger sprite sheet copy_52: -3237289184711570266
+      ginger sprite sheet copy_53: 6929372492156820309
+      ginger sprite sheet copy_54: 4638146233935737659
+      ginger sprite sheet copy_6: 6635720583704039139
+      ginger sprite sheet copy_7: -3885598040397241070
+      ginger sprite sheet copy_8: 5039197468855432554
+      ginger sprite sheet copy_9: 1243868867548649520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
