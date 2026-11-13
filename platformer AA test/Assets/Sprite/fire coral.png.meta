@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ded64cd64046a2e46b188582835dfcd4
+guid: d3ad22f8fddcefa44aad22995c9305e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1426058470888915030
-    second: agent up no bg_0
+      213: -3918159532466622079
+    second: fire coral_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: agent up no bg_0
+      name: fire coral_0
       rect:
         serializedVersion: 2
-        x: 853
-        y: 611
-        width: 176
-        height: 614
+        x: 655
+        y: 296
+        width: 939
+        height: 746
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aafbab5506f953ce0800000000000000
-      internalID: -1426058470888915030
+      spriteID: 181340e1aa6ef99c0800000000000000
+      internalID: -3918159532466622079
       vertices: []
       indices: 
       edges: []
@@ -137,7 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      agent up no bg_0: -1426058470888915030
+      fire coral_0: -3918159532466622079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

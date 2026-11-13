@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 02743ff883101a44a959c27d9f70fffd
+guid: ebfe603ec24174843a6709a97932884d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8938262757858238469
-    second: agent no bg_0
+      213: -6866832159502873631
+    second: seaweed_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: agent no bg_0
+      name: seaweed_0
       rect:
         serializedVersion: 2
-        x: 634
-        y: 831
-        width: 615
-        height: 174
+        x: 460
+        y: 94
+        width: 1391
+        height: 1100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bff91c0f069e4f380800000000000000
-      internalID: -8938262757858238469
+      spriteID: 1eb4a90788c14b0a0800000000000000
+      internalID: -6866832159502873631
       vertices: []
       indices: 
       edges: []
@@ -137,7 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      agent no bg_0: -8938262757858238469
+      seaweed_0: -6866832159502873631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
